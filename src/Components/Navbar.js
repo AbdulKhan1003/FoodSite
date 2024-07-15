@@ -26,7 +26,7 @@ export default function Navbar() {
           </ul>
         </li>
         <li className="nav-itemfloat-end me-3">
-        <Link to="/cart" className=" btn position-relative"> <img src="/cart-logo.png" alt="Cart" />
+        <Link to="/cart" className=" btn position-relative"> <img src="images/cart-logo.png" alt="Cart" />
   <span className="position-absolute top-0 start-90 badge rounded-pill bg-danger">
     {cart.TotalItems}
   </span>

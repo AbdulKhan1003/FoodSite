@@ -1,3 +1,14 @@
 .linkClass:hover{
     background-color: rgb(233, 231, 231);
 }
+.badge{
+    background-color: rgb(202, 202, 202)
+}
+.card{
+    width: 100%;
+    max-width: 380px;
+}
+.form{
+    width: 100%;
+    max-width: 400px;
+}
